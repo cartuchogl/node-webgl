@@ -32,7 +32,7 @@
     }
   ],
   "dependencies": {
-    "node-glfw": ">=0.2.0",
+    "node-glfw": "git://github.com/cartuchogl/node-glfw.git#feature/nan_glfw3",
     "nan": "^0.8.0"
   }
 }
